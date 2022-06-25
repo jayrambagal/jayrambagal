@@ -1,4 +1,6 @@
 ### Hi , I'm Jayram 👋
+
+👨🏻‍💻  About Me
 🎓  I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Agartala.
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Machine Learning
