@@ -1,19 +1,12 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jay%20&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jayram%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
   <p></p>
-  
-  <!--
-  [![Twitter Follow](https://img.shields.io/twitter/follow/palashv2?style=social)](https://twitter.com/intent/follow?screen_name=palashv2)
-  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnnhIfN-A4JPs2ogiN59MRA?style=social)](https://www.youtube.com/channel/UCnnhIfN-A4JPs2ogiN59MRA?sub_confirmation=1)
-  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCnnhIfN-A4JPs2ogiN59MRA?style=social)](https://www.youtube.com/channel/UCnnhIfN-A4JPs2ogiN59MRA?sub_confirmation=1)
-  ![GitHub followers](https://img.shields.io/github/followers/palashmon?style=social)
-  -->
-  
+    
   <p>Welcome to my page! </br> I am Jay, a passionate programmer & Software developer.</p>
   <br>
   <p>
-  MCTS · Priority - ✨ Health, Family and Freedom ✨
+  Priority - ✨ Health, Family and Freedom ✨
   </p>
   
 ---
@@ -37,12 +30,12 @@
 ---      
       
   ### My GitHub Stats
-  ![palashmon's gitHub stats](https://github-readme-stats.vercel.app/api?username=palashmon&show_icons=true&theme=radical&hide_border=true)  
+  ![Jayram Bagal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayrambagal&show_icons=true&count_private=true&theme=radical&hide_border=true)  
    
-  <a href="https://github.com/palashmon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palashmon&theme=radical&hide_border=true" /></a>     
-   
+   <a href="https://github.com/jayrambagal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayrambagal&theme=radical&hide_border=true" /></a>
+      
   ### Profile Visit Count   
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=palashmon.palashmon)
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jayrambagal.jayrambagal)
   <br> 
 </div>  
 <!--
