@@ -33,7 +33,7 @@
   ![Jayram Bagal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayrambagal&show_icons=true&count_private=true&theme=radical&hide_border=true)  
    
    <a href="https://github.com/jayrambagal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayrambagal&theme=radical&hide_border=true" /></a>
-      
+   ![Jayram](https://github-readme-activity-graph.cyclic.app/graph?username=jayrambagal&theme=dracula)
   ### Profile Visit Count   
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jayrambagal.jayrambagal)
   <br> 
