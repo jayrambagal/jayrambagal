@@ -7,7 +7,7 @@
   <p>Welcome to my page! </br> I am Jay, a passionate programmer & Software developer enthusiast.</p>
   <br>
   <p>
-  Priority - ✨ Health, Family and Freedom ✨
+  Priority - ✨ Quality, Features and Schedule ✨
   </p>
   
 ---
