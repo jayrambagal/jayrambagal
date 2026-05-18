@@ -5,7 +5,7 @@
 **Software Engineer** · Building distributed systems & AI-powered products at scale
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayram-bagal)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bagaljay31@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jayrambagal00@gmail.com)
 
 </div>
 
