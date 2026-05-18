@@ -1,58 +1,101 @@
-<div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jayram%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
-  <h1> Hey, nice to see you. :sunflower:</h1>
-  
-  <p></p>
-    
-  <p>Welcome to my page! </br> I am Jay, a passionate programmer & Software developer enthusiast.</p>
-  <br>
-  <p>
-  Priority - ✨ Quality, Features and Schedule ✨
-  </p>
-  
+<div align="center">
+
+# Jayram Bagal
+
+**Software Engineer** · Building distributed systems & AI-powered products at scale
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayram-bagal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bagaljay31@gmail.com)
+
+</div>
+
 ---
 
-  ### Technology Stack
-  <div align='center'>
-     <picture><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></picture>
-     <picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> </picture>
-     <picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> </picture>
-     <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></picture>
-     <picture><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></picture>
-     <picture><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> </picture>
-     <picture><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> </picture>
-     <picture><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /></picture>
-     <picture><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></picture>
-     <picture><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></picture>
-     <picture><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></picture>
-     <picture><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /> </picture>
+### About
 
-  
----      
-      
-  ### My GitHub Stats
-  ![Jayram Bagal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayrambagal&show_icons=true&count_private=true&theme=radical&hide_border=true)  
-   
-   <a href="https://github.com/jayrambagal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayrambagal&theme=radical&hide_border=true" /></a>
-   
-  ### Profile Visit Count   
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jayrambagal.jayrambagal)
-  <br> 
-</div>  
-<!--
-**palashmon/palashmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at **Gamezop**, designing and building production systems that process **10M+ events daily** across distributed pipelines. I work across the full stack — from building backend services in Go and TypeScript to crafting responsive UIs in React and Next.js.
 
-Here are some ideas to get you started:
+Currently focused on **distributed systems**, **AI/ML integration**, and **cloud infrastructure optimization**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### What I'm Working On
 
+- 🔧 Building fault-tolerant event processing pipelines using **Kafka** and **Redis**
+- 🤖 Integrating **RAG pipelines** and **vector embeddings** for AI-powered search
+- 📊 Developing internal dashboards with **React**, **TypeScript**, and **Go**
+- 🔍 Driving observability with **distributed tracing** and **structured logging**
 
+---
+
+### Tech Stack
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
+
+**Data & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+**DevOps & Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jayrambagal&show_icons=true&count_private=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayrambagal&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrambagal&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayrambagal&layout=compact&theme=default&hide_border=true&langs_count=8" height="170" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=jayrambagal&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayrambagal&hide_border=true" />
+</picture>
+
+<br/>
+
+<!-- Contribution graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jayrambagal&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayrambagal&theme=github-light&hide_border=true&area=true" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  <i>Open to interesting conversations and collaboration — reach out anytime.</i>
+</div>
