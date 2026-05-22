@@ -13,7 +13,7 @@
 
 ### About
 
-Software Engineer at **Gamezop**, designing and building production systems that process **10M+ events daily** across distributed pipelines. I work across the full stack from building backend services in Go and TypeScript to crafting responsive UIs in React and Next.js.
+Software Engineer at **Gamezop**, designing and building production systems that process **10M+ events daily** across distributed pipelines. I work across the full stack from building backend services in Python, and TypeScript to crafting responsive UIs in React and Next.js.
 
 Currently focused on **distributed systems**, **AI/ML integration**, and **cloud infrastructure optimization**.
 
